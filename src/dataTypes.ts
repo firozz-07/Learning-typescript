@@ -1,6 +1,5 @@
 let name:string='firoz'
 name='arslan'
-// name=12
 console.log(name);
 let posiibilities:"yes" | "no"
 posiibilities="yes"
